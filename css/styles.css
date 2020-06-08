@@ -1,0 +1,40 @@
+ body {
+     background-color: lightblue;
+}
+ h1 {
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+     font-size: 2.2em;
+     color:white;
+     text-transform: uppercase;
+}
+ h3 {
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+     font-size: 1.6em;
+     color:white;
+     text-transform: uppercase;
+}
+ p {
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+     color: white;
+}
+ img {
+     height: 220px;
+     width: 150px;
+}
+ #countdown_text {
+     font-size:2em;
+     color:white;
+     text-align:center;
+}
+ .centre {
+     text-align:center;
+}
+ #restart {
+     font-family: 'Roboto', sans-serif;
+     text-align: center;
+     color: white;
+}
+ 
